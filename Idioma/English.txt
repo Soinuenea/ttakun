@@ -1,0 +1,123 @@
+File
+
+New
+Crea una partitura nueva
+Open
+Abre una partitura de un archivo
+Save
+Guarda la partitura en un archivo sobreescribiendo si existiera
+Save as
+Guarda la partitura en un archivo nuevo
+Close
+Cierra la partitura actual
+Export to image
+Exporta la partitura actual a un archivo de imagen
+Edit
+
+Undo
+Deshace la última acción realizada
+Redo
+Rehace la última acción deshecha
+Next plank
+Selecciona el siguiente tablón
+Previous plank
+Selecciona el tablón anterior
+Delete selected hits
+Borra los golpes que están seleccionados
+Select all
+Selecciona todos los golpes de la partitura
+Sheet
+
+Add plank
+Añade un nuevo tablón a la partitura
+Delete plank
+Elimina el tablón que esta seleccionado
+Plank down
+Mueve el tablon seleccionado una posición hacia abajo
+Plank up
+Mueve el tablón seleccionado una posicion hacia arriba
+Change plank color
+Cambia el color del tablón seleccionado
+Change plank sound
+Cambia el tono del tablón seleccionado
+Set duration
+Cambia la duración de la partitura al valor deseado (en milisegundos)
+Play
+Comienza la reproducción de la partitura
+View
+
+Zoom in
+Aumenta el zoom de la vista
+Zoom out
+Reduce el zoom de la vista
+Fit to window
+Ajusta el zoom para que se vea toda la partitura en la ventana
+Change style
+Alterna entre el modo linea y el modo cajas
+Configuration
+
+Configuration
+Manages the configuration of the application
+About us
+
+Ritmical weight
+
+Hits per compas
+
+Play speed
+
+Loop
+
+Hit strength
+
+Playback start
+
+Duration
+
+Fit hits
+Ajusta los golpes al gramaje rítmico
+Play
+Reproduce la partitura actual
+Stop
+Detiene la reproducción actual
+Add plank
+Añade un nuevo tablón a la partitura
+Add musician
+Añade un nuevo músico a la partitura
+Change
+Updates the duration of the sheet.
+Remove musician
+Removes a musician from the sheet
+You must restart to apply the changes.
+
+Choose a tone for the plank.
+
+Choose a color for the plank.
+
+Choose a color for the musician.
+
+Overwrite the existing file?
+
+Musician 
+
+Toggle mute
+
+Sheet folder
+
+Languaje file
+
+Export folder
+
+Default sound file
+
+Default sheet duration
+
+Change
+
+Show plank numbers
+
+Only 1 plank
+
+Compass per line
+
+Distance between systems

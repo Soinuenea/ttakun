@@ -1,0 +1,123 @@
+Archivo
+
+Nuevo
+Crea una partitura nueva
+Abrir
+Abre una partitura de un archivo
+Guardar
+Guarda la partitura en un archivo sobreescribiendo si existiera
+Guardar como
+Guarda la partitura en un archivo nuevo
+Cerrar
+Cierra la partitura actual
+Exportar a imagen
+Exporta la partitura actual a un archivo de imagen
+Edición
+
+Deshacer
+Deshace la última acción realizada
+Rehacer
+Rehace la última acción deshecha
+Siguiente tablón
+Selecciona el siguiente tablón
+Tablon anterior
+Selecciona el tablón anterior
+Eliminar golpes seleccionados
+Borra los golpes que están seleccionados
+Seleccionar todos
+Selecciona todos los golpes de la partitura
+Partitura
+
+Añadir tablón
+Añade un nuevo tablón a la partitura
+Eliminar tablón 
+Elimina el tablón que esta seleccionado
+Bajar tablón
+Mueve el tablon seleccionado una posición hacia abajo
+Subir tablón
+Mueve el tablón seleccionado una posicion hacia arriba
+Cambiar color tablón
+Cambia el color del tablón seleccionado
+Cambiar tono tablón
+Cambia el tono del tablón seleccionado
+Cambiar duración
+Cambia la duración de la partitura al valor deseado (en milisegundos)
+Reproducir
+Comienza la reproducción de la partitura
+Vista
+
+Acercar
+Aumenta el zoom de la vista
+Alejar
+Reduce el zoom de la vista
+Ajustar a ventana
+Ajusta el zoom para que se vea toda la partitura en la ventana
+Cambiar estilo
+Alterna entre el modo linea y el modo cajas
+Configuración
+
+Configuración
+Cambia la carpeta donde se guardarán y cargarán las partituras
+Acerca de
+Cambia el idioma de la aplicación
+Gramaje rítmico
+
+Golpes por compas
+
+Velocidad de reproducción
+
+Loop
+
+Fuerza de golpe
+
+Comienzo de reproducción
+
+Duración
+
+Ajustar golpes
+Ajusta los golpes al gramaje rítmico
+Reproducir
+Reproduce la partitura actual
+Parar
+Detiene la reproducción actual
+Añadir tablón
+Añade un nuevo tablón a la partitura
+Añadir músico
+Añade un nuevo músico a la partitura
+Cambiar
+Cambia la duración de la partitura por el valor introducido.
+Eliminar músico
+Elimina el músico seleccionado de la partitura.
+Es necesario reiniciar la aplicación para que se apliquen los cambios.
+
+Elige un tono para el tablón.
+
+Elige un color para el tablón.
+
+Elige un color para el músico.
+
+Sobreescribir el fichero anterior?
+
+Músico 
+
+Silenciar
+
+Carpeta de partituras
+
+Archivo de idioma
+
+Carpeta de exportaciones
+
+Sonido por defecto
+
+Duracion por defecto
+
+Cambiar
+
+Mostrar números de tablón
+
+Solo un tablón
+
+Compases por linea
+
+Distancia entre sistemas

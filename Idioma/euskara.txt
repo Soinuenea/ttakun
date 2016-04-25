@@ -1,0 +1,123 @@
+Fitxategia
+
+Berria
+Partitura berria sortu
+Ireki
+Fitxategi bateko partitura ireki
+Gorde
+Partitura fitxategi batean gordetzen du izen berdina duena gainidatziz
+Gorde honela
+Partitura artxibo berrian gorde
+Itxi
+Uneko partitura itxi
+Irudia esportatu
+Uneko partituta irudi artxibo batera esportatzen du
+Editatu
+
+Desegin
+Azken ekintza desegiten du
+Berregin
+Desegindako azken ekintza berregiten du
+Hurrengo ohola
+Hurrengo ohola hautatzen du
+Aurreko ohola
+Aurreko ohola hautatzen du
+Ezabatu hautatutako kolpeak
+Hautatuta dauden kolpeak ezabatzen ditu
+Hautatu denak
+Partiturako kolpe guztiak hautatzen ditu
+Partitura
+
+Gehitu ohola
+Partituran ohol berria gehitzen du
+Ohola ezabatu
+Hautatuta dagoen ohola ezabatzen du
+Eraman behera ohola
+Hautatutako ohola kokaleku bat behera eramaten du
+Eraman gora ohola
+Hautatutako ohola kokaleku bat gora eramaten du
+Aldatu oholaren kolorea
+Hautatutako oholaren kolpeen kolorea aldatzen du
+Aldatu oholaren tonua
+Hautatutako oholaren tonua aldatzen du
+Iraupena aldatu
+Partituraren iraupena nahi den neurrira aldatzen du (milisegundotan)
+Erreproduzitu
+Partituraren erreprodukzioa hasten da
+Ikusi
+
+Handiagotu
+Ikuspegiaren zooma handitzen du
+Txikiagotu
+Ikuspegiaren zooma txikitzen du
+Leihora egokitu
+Partitura osoa leihoan ikusteko zooma egokitzen du
+Aldatu estiloa
+Linea eta kaxak moduen artean ordezkatzen du
+Ezarpenak
+
+Lanerako karpeta aldatu
+Gorde eta irekiko diren partiturak jasotzeko karpeta lehenetsia aldatzen du
+Hizkuntza aldatu
+Programan ageri diren testuen hizkuntza aldatzen du
+Gramaje erritmikoa
+
+Kolpeak konpaseko
+
+Erreprodukzio abiadura
+
+Errepikatu
+
+Kolpearen indarra
+
+Comienzo de reproducción
+
+Duración
+
+Kolpeak doitu
+Kolpeak gramaje erritmikora doitzen ditu
+Erreproduzitu
+Uneko partitura erreproduzitzen du
+Gelditu
+Uneko erreprodukzioa geratzen du
+Ohola gehitu
+Partituran ohol berri bat gehitzen du
+Musikaria gehitu
+Partituran musikari berri bat gehitzen du
+Cambiar
+Cambia la duración de la partitura por el valor introducido.
+Musikaria kendu
+Removes a musician from the sheet
+Aldaketak indarrean jartzeko programa berrabiarazi.
+
+Aukeratu oholaren tonua.
+
+Aukeratu ohola irudikatzeko kolorea.
+
+Aukeratu musikaria irudikatzeko kolorea.
+
+Berridatzi dagoen fitxeroa?
+
+Musikaria 
+
+Toggle mute
+
+Sheet folder
+
+Languaje file
+
+Export folder
+
+Default sound file
+
+Default sheet duration
+
+Change
+
+Show plank numbers
+
+Only 1 plank
+
+Compass per line
+
+Distance between lines
