@@ -26,6 +26,8 @@ Ezabatu hautatutako kolpeak
 Hautatuta dauden kolpeak ezabatzen ditu
 Hautatu denak
 Partiturako kolpe guztiak hautatzen ditu
+Ezabatu bikoiztutako kolpeak
+Partituran bikoiztuta dauden kolpe guztiak ezabatzen ditu
 Partitura
 
 Gehitu ohola
@@ -36,9 +38,9 @@ Eraman behera ohola
 Hautatutako ohola kokaleku bat behera eramaten du
 Eraman gora ohola
 Hautatutako ohola kokaleku bat gora eramaten du
-Aldatu oholaren kolorea
+Oholaren kolorea aldatu
 Hautatutako oholaren kolpeen kolorea aldatzen du
-Aldatu oholaren tonua
+Oholaren tonua aldatu
 Hautatutako oholaren tonua aldatzen du
 Iraupena aldatu
 Partituraren iraupena nahi den neurrira aldatzen du (milisegundotan)
@@ -46,9 +48,9 @@ Erreproduzitu
 Partituraren erreprodukzioa hasten da
 Ikusi
 
-Handiagotu
+Handitu
 Ikuspegiaren zooma handitzen du
-Txikiagotu
+Txikitu
 Ikuspegiaren zooma txikitzen du
 Leihora egokitu
 Partitura osoa leihoan ikusteko zooma egokitzen du
@@ -56,11 +58,11 @@ Aldatu estiloa
 Linea eta kaxak moduen artean ordezkatzen du
 Ezarpenak
 
-Lanerako karpeta aldatu
-Gorde eta irekiko diren partiturak jasotzeko karpeta lehenetsia aldatzen du
-Hizkuntza aldatu
-Programan ageri diren testuen hizkuntza aldatzen du
-Gramaje erritmikoa
+Ezarpenak
+Programaren ezarpenak zehazteko aukera ematen du
+Honi buruz
+
+Gramajea
 
 Kolpeak konpaseko
 
@@ -70,12 +72,12 @@ Errepikatu
 
 Kolpearen indarra
 
-Comienzo de reproducción
+Nondik hasi erreprodukzioa
 
-Duración
+Iraupena
 
 Kolpeak doitu
-Kolpeak gramaje erritmikora doitzen ditu
+Kolpeak gramajera doitzen ditu
 Erreproduzitu
 Uneko partitura erreproduzitzen du
 Gelditu
@@ -84,11 +86,11 @@ Ohola gehitu
 Partituran ohol berri bat gehitzen du
 Musikaria gehitu
 Partituran musikari berri bat gehitzen du
-Cambiar
-Cambia la duración de la partitura por el valor introducido.
+Aldatu iraupena
+Partituraren iraupena balio berriarekin ordezkatzen du
 Musikaria kendu
-Removes a musician from the sheet
-Aldaketak indarrean jartzeko programa berrabiarazi.
+Partituratik aukeratutako musikaria kentzen du
+Aldaketak indarrean jartzeko programa berrabiarazi behar duzu.
 
 Aukeratu oholaren tonua.
 
@@ -96,28 +98,28 @@ Aukeratu ohola irudikatzeko kolorea.
 
 Aukeratu musikaria irudikatzeko kolorea.
 
-Berridatzi dagoen fitxeroa?
+Izen bera duen fitxeroa ordezkatu nahi al duzu?
 
 Musikaria 
 
-Toggle mute
+Isildu
 
-Sheet folder
+Partituren karpeta
 
-Languaje file
+Hizkuntzaren artxiboa
 
-Export folder
+Exportazioen karpeta
 
-Default sound file
+Lehenetsitako hotsa
 
-Default sheet duration
+Lehenetsitako iraupena
 
-Change
+Aldatu
 
-Show plank numbers
+Erakutsi oholen zenbakia
 
-Only 1 plank
+Ohol bakarra
 
-Compass per line
+Zenbat konpas lerroko
 
-Distance between lines
+Lerroen arteko tartea
